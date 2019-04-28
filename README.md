@@ -79,16 +79,16 @@
     <style scoped>
         /* 图片样式   自己动手 丰衣足食 */
         .box {
-        padding-top: 20px;
+            padding-top: 20px;
         }
         .box .item {
-        cursor: pointer;
-        display: inline-block;
-        padding: 0 24px;
-        height: 80px;
-        line-height: 80px;
-        text-align: left;
-        width: 20%;
+            cursor: pointer;
+            display: inline-block;
+            padding: 0 24px;
+            height: 80px;
+            line-height: 80px;
+            text-align: left;
+            width: 20%;
         }
     </style>
 
